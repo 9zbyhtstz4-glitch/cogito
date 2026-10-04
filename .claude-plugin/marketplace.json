@@ -1,0 +1,14 @@
+{
+  "name": "cogito-plugins",
+  "owner": { "name": "dachi" },
+  "metadata": {
+    "description": "AIを、人間が自分で考えて決めるための認知的な足場として振る舞わせる Claude Code プラグイン"
+  },
+  "plugins": [
+    {
+      "name": "cogito",
+      "source": "./",
+      "description": "表示レベルの切り替え、報告の型、言葉のフィルター、ソクラテス式問答"
+    }
+  ]
+}
