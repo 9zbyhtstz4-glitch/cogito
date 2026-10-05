@@ -56,7 +56,7 @@ AIの親切すぎる「しゃべりすぎ」をシステム側で抑え込み、
 
 ### Windows
 ```
-claude.cmd plugin marketplace add 9zbyhtstz4-glitch/cogito
+claude.cmd plugin marketplace add dachi-jp3/cogito
 ```
 
 ```
@@ -67,7 +67,7 @@ claude.cmd plugin install cogito@cogito-plugins
 
 ### Mac
 ```
-claude plugin marketplace add 9zbyhtstz4-glitch/cogito
+claude plugin marketplace add dachi-jp3/cogito
 ```
 
 ```
@@ -107,4 +107,4 @@ Copyright 2026 dachi
 
 ## フィードバック（Feedback）
 
-不具合や要望は [Issues](https://github.com/9zbyhtstz4-glitch/cogito/issues) へどうぞ。
+不具合や要望は [Issues](https://github.com/dachi-jp3/cogito/issues) へどうぞ。
