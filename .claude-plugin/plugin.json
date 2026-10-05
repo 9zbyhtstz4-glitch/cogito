@@ -1,7 +1,7 @@
 {
   "name": "cogito",
   "displayName": "Cogito-Plugin",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "AIを全自動の代理人ではなく、人間が自分で考えて決めるための認知的な足場（Cognitive Scaffold）として振る舞わせる。表示レベルの切り替え、報告の型、言葉のフィルター、ソクラテス式問答を、Skills と Hooks だけで実装する（Agents・MCP Servers は使わない）。",
   "author": { "name": "dachi" },
   "homepage": "https://github.com/dachi-jp3/cogito",
